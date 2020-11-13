@@ -1,5 +1,5 @@
 ---------------------------------  --------------------------------------------------------------------------------
-Last updated:                      2020-11-13 22:51 UTC
+Last updated:                      2020-11-13 22:59 UTC
 Latest batch received: (Colorado)  2020-11-13 21:53 UTC
 Prettier web version:              https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ---------------------------------  --------------------------------------------------------------------------------
@@ -1094,7 +1094,7 @@ Maine (EV: 4) Total Votes: (Biden: 420,357, Trump: 341,949)
 Maryland (EV: 10) Total Votes: (Biden: 1,833,526, Trump: 939,741)
 ----------------  ---  ----------------  --------------------  -------------------------  ----------------  -------------------  ----------------
 2020-11-13 22:42  ***  Biden up 893,785  Left (est.): 175,160  Δ:     947 (Biden +19.1%)  90.09% precincts  Trump needs 310.09%  & trends  27.58%
-2020-11-13 22:26  ***  Biden up 893,424  Left (est.): 176,139  Δ:   5,804 (Biden +11.3%)  90.09% precincts  Trump needs 308.54%  & trends  26.85%
+2020-11-13 22:26  ---  Biden up 893,424  Left (est.): 176,139  Δ:   5,804 (Biden +11.3%)  90.09% precincts  Trump needs 308.54%  & trends  26.85%
 2020-11-13 22:14  ---  Biden up 892,112  Left (est.): 182,217  Δ:      38 (Biden +42.1%)  89.95% precincts  Trump needs 299.55%  & trends  21.27%
 2020-11-13 21:43  ---  Biden up 892,080  Left (est.): 182,256  Δ:     579 (Biden +11.7%)  89.95% precincts  Trump needs 299.49%  & trends  21.29%
 2020-11-13 21:36  ---  Biden up 891,945  Left (est.): 182,845  Δ:  13,929 (Biden +29.1%)  89.95% precincts  Trump needs 298.65%  & trends  20.89%
