@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Fri, 13 Nov 2020 20:55:37 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2020 21:08:56 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35163</description>
    <pubDate>Fri, 13 Nov 2020 14:17:31 -0000</pubDate>
@@ -16,9 +16,9 @@
    <guid isPermaLink="false">alabama@1605065022.27</guid>
   </item>
   <item>
-   <description>Arkansas (EV: 6): Trump +339064</description>
-   <pubDate>Fri, 13 Nov 2020 20:46:17 -0000</pubDate>
-   <guid isPermaLink="false">arkansas@1605300377.888</guid>
+   <description>Arkansas (EV: 6): Trump +339080</description>
+   <pubDate>Fri, 13 Nov 2020 21:08:56 -0000</pubDate>
+   <guid isPermaLink="false">arkansas@1605301736.582</guid>
   </item>
   <item>
    <description>Arizona (EV: 11): Biden +10988</description>
@@ -106,9 +106,9 @@
    <guid isPermaLink="false">massachusetts@1605299537.314</guid>
   </item>
   <item>
-   <description>Maryland (EV: 10): Biden +881980</description>
-   <pubDate>Fri, 13 Nov 2020 20:32:17 -0000</pubDate>
-   <guid isPermaLink="false">maryland@1605299537.314</guid>
+   <description>Maryland (EV: 10): Biden +882263</description>
+   <pubDate>Fri, 13 Nov 2020 21:08:56 -0000</pubDate>
+   <guid isPermaLink="false">maryland@1605301736.582</guid>
   </item>
   <item>
    <description>Maine (EV: 4): Biden +78408</description>
@@ -161,9 +161,9 @@
    <guid isPermaLink="false">new-hampshire@1605039421.511</guid>
   </item>
   <item>
-   <description>New Jersey (EV: 14): Biden +652696</description>
-   <pubDate>Fri, 13 Nov 2020 20:55:37 -0000</pubDate>
-   <guid isPermaLink="false">new-jersey@1605300937.626</guid>
+   <description>New Jersey (EV: 14): Biden +654165</description>
+   <pubDate>Fri, 13 Nov 2020 21:08:56 -0000</pubDate>
+   <guid isPermaLink="false">new-jersey@1605301736.582</guid>
   </item>
   <item>
    <description>New Mexico (EV: 5): Biden +98315</description>
@@ -171,14 +171,14 @@
    <guid isPermaLink="false">new-mexico@1605233267.193</guid>
   </item>
   <item>
-   <description>Nevada (EV: 6): Biden +35453</description>
-   <pubDate>Fri, 13 Nov 2020 17:31:11 -0000</pubDate>
-   <guid isPermaLink="false">nevada@1605288671.233</guid>
+   <description>Nevada (EV: 6): Biden +35361</description>
+   <pubDate>Fri, 13 Nov 2020 21:08:56 -0000</pubDate>
+   <guid isPermaLink="false">nevada@1605301736.582</guid>
   </item>
   <item>
-   <description>New York (EV: 29): Biden +880085</description>
-   <pubDate>Fri, 13 Nov 2020 20:55:37 -0000</pubDate>
-   <guid isPermaLink="false">new-york@1605300937.626</guid>
+   <description>New York (EV: 29): Biden +882256</description>
+   <pubDate>Fri, 13 Nov 2020 21:08:56 -0000</pubDate>
+   <guid isPermaLink="false">new-york@1605301736.582</guid>
   </item>
   <item>
    <description>Ohio (EV: 18): Trump +470723</description>
@@ -196,9 +196,9 @@
    <guid isPermaLink="false">oregon@1605233267.193</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +59898</description>
-   <pubDate>Fri, 13 Nov 2020 20:55:37 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1605300937.626</guid>
+   <description>Pennsylvania (EV: 20): Biden +62551</description>
+   <pubDate>Fri, 13 Nov 2020 21:08:56 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1605301736.582</guid>
   </item>
   <item>
    <description>Rhode Island (EV: 4): Biden +106303</description>
