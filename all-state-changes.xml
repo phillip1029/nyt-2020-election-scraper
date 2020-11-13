@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Fri, 13 Nov 2020 21:43:44 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2020 21:53:04 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35163</description>
    <pubDate>Fri, 13 Nov 2020 14:17:31 -0000</pubDate>
@@ -31,9 +31,9 @@
    <guid isPermaLink="false">california@1605299977.323</guid>
   </item>
   <item>
-   <description>Colorado (EV: 9): Biden +435556</description>
-   <pubDate>Fri, 13 Nov 2020 20:13:36 -0000</pubDate>
-   <guid isPermaLink="false">colorado@1605298416.382</guid>
+   <description>Colorado (EV: 9): Biden +435450</description>
+   <pubDate>Fri, 13 Nov 2020 21:53:04 -0000</pubDate>
+   <guid isPermaLink="false">colorado@1605304384.748</guid>
   </item>
   <item>
    <description>Connecticut (EV: 7): Biden +364989</description>
@@ -131,9 +131,9 @@
    <guid isPermaLink="false">missouri@1605135094.682</guid>
   </item>
   <item>
-   <description>Mississippi (EV: 6): Trump +236883</description>
-   <pubDate>Fri, 13 Nov 2020 21:43:44 -0000</pubDate>
-   <guid isPermaLink="false">mississippi@1605303824.929</guid>
+   <description>Mississippi (EV: 6): Trump +237836</description>
+   <pubDate>Fri, 13 Nov 2020 21:53:04 -0000</pubDate>
+   <guid isPermaLink="false">mississippi@1605304384.748</guid>
   </item>
   <item>
    <description>Montana (EV: 3): Trump +98807</description>
@@ -196,14 +196,14 @@
    <guid isPermaLink="false">oregon@1605233267.193</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +61996</description>
-   <pubDate>Fri, 13 Nov 2020 21:36:04 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1605303364.063</guid>
+   <description>Pennsylvania (EV: 20): Biden +63005</description>
+   <pubDate>Fri, 13 Nov 2020 21:53:04 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1605304384.748</guid>
   </item>
   <item>
-   <description>Rhode Island (EV: 4): Biden +106303</description>
-   <pubDate>Wed, 11 Nov 2020 22:51:34 -0000</pubDate>
-   <guid isPermaLink="false">rhode-island@1605135094.682</guid>
+   <description>Rhode Island (EV: 4): Biden +106362</description>
+   <pubDate>Fri, 13 Nov 2020 21:53:04 -0000</pubDate>
+   <guid isPermaLink="false">rhode-island@1605304384.748</guid>
   </item>
   <item>
    <description>South Carolina (EV: 9): Trump +293562</description>
