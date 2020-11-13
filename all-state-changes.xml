@@ -4,7 +4,7 @@
   <title>NYT 2020 Election Scraper RSS Feed</title>
   <link>https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html</link>
   <description>Latest results from battleground states.</description>
-  <lastBuildDate>Fri, 13 Nov 2020 20:46:17 -0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2020 20:55:37 -0000</lastBuildDate>
   <item>
    <description>Alaska (EV: 3): Trump +35163</description>
    <pubDate>Fri, 13 Nov 2020 14:17:31 -0000</pubDate>
@@ -161,9 +161,9 @@
    <guid isPermaLink="false">new-hampshire@1605039421.511</guid>
   </item>
   <item>
-   <description>New Jersey (EV: 14): Biden +652861</description>
-   <pubDate>Fri, 13 Nov 2020 20:13:36 -0000</pubDate>
-   <guid isPermaLink="false">new-jersey@1605298416.382</guid>
+   <description>New Jersey (EV: 14): Biden +652696</description>
+   <pubDate>Fri, 13 Nov 2020 20:55:37 -0000</pubDate>
+   <guid isPermaLink="false">new-jersey@1605300937.626</guid>
   </item>
   <item>
    <description>New Mexico (EV: 5): Biden +98315</description>
@@ -176,9 +176,9 @@
    <guid isPermaLink="false">nevada@1605288671.233</guid>
   </item>
   <item>
-   <description>New York (EV: 29): Biden +870423</description>
-   <pubDate>Fri, 13 Nov 2020 15:15:30 -0000</pubDate>
-   <guid isPermaLink="false">new-york@1605280530.342</guid>
+   <description>New York (EV: 29): Biden +880085</description>
+   <pubDate>Fri, 13 Nov 2020 20:55:37 -0000</pubDate>
+   <guid isPermaLink="false">new-york@1605300937.626</guid>
   </item>
   <item>
    <description>Ohio (EV: 18): Trump +470723</description>
@@ -196,9 +196,9 @@
    <guid isPermaLink="false">oregon@1605233267.193</guid>
   </item>
   <item>
-   <description>Pennsylvania (EV: 20): Biden +59594</description>
-   <pubDate>Fri, 13 Nov 2020 20:23:56 -0000</pubDate>
-   <guid isPermaLink="false">pennsylvania@1605299036.9</guid>
+   <description>Pennsylvania (EV: 20): Biden +59898</description>
+   <pubDate>Fri, 13 Nov 2020 20:55:37 -0000</pubDate>
+   <guid isPermaLink="false">pennsylvania@1605300937.626</guid>
   </item>
   <item>
    <description>Rhode Island (EV: 4): Biden +106303</description>
